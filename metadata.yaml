@@ -1,0 +1,30 @@
+_repo: The-treasury-of-languages-b-A-rudimentary-dictionary-of-universal-philology_70957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonwick, James
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '49188'
+    url: http://www.gutenberg.org/2009/agents/49188
+    wikipedia: https://en.wikipedia.org/wiki/James_Bonwick
+description: ''
+gutenberg_issued: '2023-06-10'
+identifiers:
+  gutenberg: '70957'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t02z14b4h&view=1up&seq=90
+pgterms:marc905: 20191119223045bonwick
+pgterms:marc906: '1873'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHall & Co, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The treasury of languages : $b A rudimentary dictionary of universal philology'
+url: http://www.gutenberg.org/ebooks/70957
